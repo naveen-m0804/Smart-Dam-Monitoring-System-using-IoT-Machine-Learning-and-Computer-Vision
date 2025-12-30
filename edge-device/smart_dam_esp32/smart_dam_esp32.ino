@@ -14,10 +14,10 @@
 // USER CONFIG
 // ----------------------------------------------------
 
-#define WIFI_SSID   "7"
-#define WIFI_PASS   "123123123"
+#define WIFI_SSID   "------------"
+#define WIFI_PASS   "************************"
 
-#define FIREBASE_DB_URL "https://smart-dam-automation-system-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_DB_URL "https://********************.firebasedatabase.app"
 
 // Dam settings
 #define DAM_HEIGHT_CM 40
