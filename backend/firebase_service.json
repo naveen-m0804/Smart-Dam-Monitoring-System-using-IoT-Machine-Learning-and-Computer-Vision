@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "smart-dam-automation-system",
-  "private_key_id": "c70c05a72212b29b935cea3338382f7a86a50277",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3W3UCaPBQ+RRO\naSPuz43PtFCjeRHZClX0pIouDu1kG4RygvlgdfC5wWGRX9ZOxJWCT0pvS1tsgTSl\nf9RXjLtsFcmKnG2/gryxZ4OVAjtWgJM3yERrjo0EqWZxF9gr0usYQV6l57wbfQUa\n4IuCbWlq3+CqtXaWPlK0kPBy8+1ndKNVJf8tV2a1uNodRGHjTTSQGV3ywH9b7JPo\nmfPoSZ4dsQF8m/IrbelSi5Ph5rM3lJBCs+t7IvpEl6sQWbFGWqQqjXfduRu6kpJ8\nM9ruFDz9Fs3tc1nYO387WRlbC1iRd1zCsvfNUiEsKOJUCk3bgyIXgEydWsQgme13\nPMOaqYLpAgMBAAECggEAArgO9VTeI26LjbxvZwoNd45aKEmm1rdCz8HhQ1R9JOY2\nA9l5KrS7N8yqKU63IG4GTYxaO6vx6yeSkUlSRp6Zuxf5Syi/IlXrbQziE0/jc19q\nutApnJv9nPY+xI1V71XZyBxD64abQsDVbwepuGabiKXEy4p7uZrUV/qdFax3PM+D\nG6jL3fUaCiWzUBbrsyE10yJPlOUyOTcFQs8K1+ldpRvHa30HvdSUb9o+V32gLMx9\n+KXhjVnIYGmXRdEN9WeWUCDfEuzz1mrz0MOOfsjaNYTnKl+j6XbAhRM3ZxRX0/2i\niydVbH3gFXgRXJ7G2w2bbEIFHFHqC0TZ/MhSTuecBQKBgQD/diHQxzd9K2OihCmT\nf4VNRTH3FulSTmRtCL+AMphMMQ+XTCR0BFEJqYlFgd2eVeA3sJqNtrkNwoZgj7/b\n7m7WONEzLPqg6WFxJYODNriHrtKvxSSrR/qeIrDLgfGlmpI589PFO/oK3wwgQPTg\nL3i6GeL3xsiucdNA9BUMUqzW8wKBgQC3vmlh0mOnbL7c1WZi4oaWd+4AruN3QzJF\naG2QoUCb3vLVUlRC+tmw69k0SCHp9/hk2LM3v5wJYbWroVtk/UWelkFX2r1Tt3u1\nqIfnRjWS4Oapcyb7xMDwVcwlyBIXwdWj9tVTDoIF3r4d198ftgfVZVGVEtpV2VmR\ndaxlNH+tswKBgEccWC9otR6HrHV5uqUPU0j+IPl6DDrYDYZ4b+48pz5WTdO840zU\nQsagxdBuZQWFPCPkajFWks6svoE0oqCTD5FcQYewVpfiPziiy6gD3HwQgx9gjmOL\nZs0MNRCBPIXvsBKnt+RoXKMYEaUMz91z+XQ8bnywff5pOvgSuaUzgl9XAoGAYQJ2\nDwCOPrHqXxuIEAM7PawaC2BKlgfzPbPxzN9mBiWCnd/2vtpEHuWWasT+qtGR4mSK\n0o8macmdqfzqDPqvTBhWbXT+annAJdvRzOhDlsWI4sP6PAjYOMuDmhr0eniLPCMw\n48YQHdtJEuaLVem8Xw08MnGetp6nbGXtXA2Ir4MCgYEA+yZ9SI7AoYqNZEAZd//R\nOTtvUuM/1BftdIES4gAv5NggSWJcNQT8K8BNnMTOUk6tP0wgW2VHzklzSUui5Qwf\nEA15h0lQZi48V6Wjkg4781mymxrBR7mudvs9G5Ts9XA3UEpLy/RyjLBVLvu3givJ\nrqkwRLt/aGXhY44cVuuhLjE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@smart-dam-automation-system.iam.gserviceaccount.com",
-  "client_id": "112840400769435813837",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smart-dam-automation-system.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "******",
+  "private_key_id": "****",
+  "private_key": "**********"; 
+  "client_email": "********",
+  "client_id": "******",
+  "auth_uri": "***************",
+  "token_uri": "**********************",
+  "auth_provider_x509_cert_url": ********************",
+  "client_x509_cert_url": "********************",
+  "universe_domain": "*****************"
 }
