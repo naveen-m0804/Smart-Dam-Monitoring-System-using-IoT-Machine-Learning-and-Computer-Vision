@@ -10,7 +10,7 @@ from firebase_admin import credentials, db
 # ---------------- Config ----------------
 
 FIREBASE_DB_URL = (
-    "https://smart-dam-automation-system-default-rtdb.asia-southeast1.firebasedatabase.app/"
+    "https:/****************.firebasedatabase.app/"
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
